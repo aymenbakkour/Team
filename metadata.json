@@ -1,0 +1,7 @@
+{
+  "name": "ClarifyAI - Strategic Meeting Intelligence",
+  "description": "A sophisticated AI-powered dashboard that transforms messy meeting transcripts into structured action items, strategic roadmaps, and productivity analytics using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
