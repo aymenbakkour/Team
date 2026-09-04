@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/12O1ZG-ap0gIQYp59i18vCwniw-xl9qvD
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# رحلتي مع القرآن
+نسخة أولية عملية (MVP) من تطبيق متابعة حفظ القرآن.
+- تشغيل محلي وواجهة عربية RTL
+- onboarding + جولة تعريفية
+- ملف الطفل
+- متابعة حفظ جزء عمّ
+- تسجيل جلسات الحفظ
+- تأكيد التسميع والتقييم
+- مراجعة السور
+- نجوم وشارات
+- إحصائيات أساسية
+- شهادة قابلة للطباعة A4
+- IndexedDB + تصدير/استعادة JSON
+- PWA / Service Worker
